@@ -1,2 +1,0 @@
-# LucidClientLauncher
-LucidClient Launcher Finally
